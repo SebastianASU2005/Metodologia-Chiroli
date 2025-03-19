@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "id": "123",
+      "titulo": "titulo1",
+      "descripcion": "des1",
+      "fechaLimite": "10/12/2023"
+    },
+    {
+      "id": "1234",
+      "titulo": "titulo2",
+      "descripcion": "des1",
+      "fechaLimite": "3333"
+    },
+    {
+      "id": "12345",
+      "titulo": "titulo3",
+      "descripcion": "des1",
+      "fechaLimite": "3333"
+    },
+    {
+      "id": "123456",
+      "titulo": "titulo4",
+      "descripcion": "des1",
+      "fechaLimite": "3333"
+    },
+    {
+      "id": "1234567",
+      "titulo": "titulo5",
+      "descripcion": "des1",
+      "fechaLimite": "3333"
+    },
+    {
+      "id": "12345678",
+      "titulo": "titulo6",
+      "descripcion": "des1",
+      "fechaLimite": "3333"
+    },
+    {
+      "id": "Sun Mar 16 2025",
+      "titulo": "Nueva Tarea",
+      "descripcion": "Esta es una tarea de prueba para probar codigo",
+      "fechaLimite": "2025-03-27"
+    }
+  ]
+}
